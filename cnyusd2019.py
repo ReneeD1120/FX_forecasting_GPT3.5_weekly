@@ -11,7 +11,7 @@ from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 
 def weekly_score(df):
-  transfer=MinMaxScaler(feature_range=(0.1,0.5))
+  transfer=MinMaxScaler(feature_range=(0,1))
   df_1=np.array(df.iloc[:,2]).reshape(-1, 1)
   df_1=transfer.fit_transform(df_1)
   d=np.array(df.iloc[:,1])*df_1.reshape(1, -1)
