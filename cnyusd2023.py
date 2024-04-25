@@ -1362,7 +1362,7 @@ data = {
         "Taiwan Dollar Overtakes Offshore Yuan as a Carry Trade Currency"
     ],
     'Sentiment Score': [60, 50, 70, 40, -20, 80, 90, 30, -50, 70],
-    'Importance Score': [0.910, 0.890, 0.870, 0.850, 0.830, 0.810, 0.790, 0.770, 0.750, 0.730]
+    'Importance Score': [0.917, 0.870, 0.813, 0.455, 0.780, 0.835, 0.780, 0.798, 0.867, 0.683]
 }
 
 # Create DataFrame
