@@ -643,7 +643,7 @@ w27 = {
              "Strong Dollar Impact on Portfolio", "Yuan in Global Trade",
              "Dollar Dominance According to Fed Study", "Transformation of China's Financial Market"],
     "Sentiment Score": [75, 45, -60, -70, 60, -85, -55, 40, 70, 50],
-    "Importance Score": [0.156, 0.094, 0.125, 0.146, 0.125, 0.177, 0.115, 0.083, 0.146, 0.104]
+    "Importance Score": [0.785, 0.476, 0.625, 0.737, 0.678, 0.198, 0.575, 0.415, 0.737, 0.525]
 }
 
 df = pd.DataFrame(w27)
